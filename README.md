@@ -7,6 +7,8 @@ A FullStack Web Developer residing at Lagos State, Nigeria.
 
 🌱 I’m currently learning latest web technologies that will help create a perfect confidence on and off the web.
 
+🌱 Taking on new challenge with node js and vue js (might be tough but gonna be fun)
+
 💬 You can reach out to me on github about any issues
 
 ⚡ Fun fact: Idea Generation can be tricky, always be with your pen and jotter. Can meet you anywhere 😂
