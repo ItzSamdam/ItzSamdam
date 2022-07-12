@@ -11,7 +11,7 @@ A FullStack Web Developer residing at Lagos State, Nigeria.
 
 ⚡ Fun fact: Idea Generation can be tricky, always be with your pen and jotter. Can meet you anywhere 😂
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odevlab)](https://github.com/anuraghazra/github-readme-stats)!]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odevlab)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 Hit me up on my various social media handles 🔭:
 <p>
