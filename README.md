@@ -2,7 +2,7 @@
 
 My name is Owadayo Samuel Damilola
 
-A FullStack Web Developer residing at Oyo State, Nigeria.
+A Backend Web Developer residing at Oyo State, Nigeria.
 
 
 🌱 I’m currently learning latest web technologies that will help create a perfect confidence on and off the web.
