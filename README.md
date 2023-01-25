@@ -27,6 +27,8 @@ I'm a backend engineer with over 4 years of experience using PHP & Laravel worki
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 
 ---
 <details open>
