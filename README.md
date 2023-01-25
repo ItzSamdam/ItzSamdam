@@ -1,11 +1,12 @@
 ### Hi 👋, I'm [Samuel Damilola](https://twitter.com/samdam10) 
 
-I'm a backend engineer with over 3 years of experience using PHP & Laravel working on projects for startups and businesses. In my few years working as a backend engineer professionally, I've worked on various solutions ranging from fintech, lifestyle, culture, amongst others.
+I'm a backend engineer with over 4 years of experience using PHP & Laravel working on projects for startups and businesses. In my few years working as a backend engineer professionally, I've worked on various solutions ranging from fintech, lifestyle, culture, amongst others.
 
 
 - 📋 Available for backend developer role (remote) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
 - 🌱 I’m currently learning Node.js, Express.js and Vue.js
-- 👯 I’m looking to collaborate on any project or any open source projects
+- 🫡 I've a basic background in mobile development using Flutter and Dart
+- 👯 I’m looking to collaborate on any web project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
 - 📫 How to reach me: [Twitter](https://twitter.com/samdam10) | [WhatsApp](https://wa.me/message/BZTK73Q5AVT4F1) | [Facebook](https://m.facebook.com/ItzSamdam) | [LinkedIn](https://www.linkedin.com/in/samuel-owadayo-6a6bb614b/)
 - 😄 Pronouns: He/His
