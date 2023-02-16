@@ -44,9 +44,6 @@ I'm a backend engineer with over 4 years of experience using PHP & Laravel worki
   <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSamdam&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true">
   </a>
 
-<a href="https://github.com/ItzSamdam/github-stats">
-  <img src="https://github.com/ItzSamdam/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-</a>
 
 
 </p>
