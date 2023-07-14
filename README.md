@@ -1,6 +1,6 @@
 ### Hi 👋, I'm [Samuel Damilola](https://twitter.com/ItzSamdam) 
 
-I'm a backend engineer with over 4 years of experience using PHP & Laravel working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from fin-tech, media-tech, ecommerce and logistics, amongst others.
+I'm a backend engineer with over 4 years of experience using PHP, JavaScript working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from fin-tech, media-tech, ecommerce and logistics, amongst others.
 
 
 - 📋 Available for backend developer role (remote) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
