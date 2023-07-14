@@ -4,7 +4,7 @@ I'm a backend engineer with over 4 years of experience using PHP & Laravel worki
 
 
 - 📋 Available for backend developer role (remote) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
-- 🌱 I’m currently learning Node.js, Express.js and Vue.js
+- 🌱 I’m currently learning Nestjs.
 - 👯 I’m looking to collaborate on any web project or any open source projects
 - 🤔 I’m looking for collaboration with Node Js 
 - 👋 I've a basic background in mobile development using Flutter and Dart
@@ -23,6 +23,7 @@ I'm a backend engineer with over 4 years of experience using PHP & Laravel worki
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-05122A?style=flat&logo=inertia.js)&nbsp;
@@ -30,13 +31,10 @@ I'm a backend engineer with over 4 years of experience using PHP & Laravel worki
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 
 ---
-<details open>
+<details>
  <summary> 😇 <b>My Github Stat</b>: </summary>
-<br>
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSamdam&layout=compact&hide=html&theme=dracula"/>
-
-
 
 </p>
 </details>
