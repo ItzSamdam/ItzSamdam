@@ -34,6 +34,7 @@ I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScri
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="PHP" src="https://img.shields.io/badge/php-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2314354C.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="Vue JS" src="https://img.shields.io/badge/vue.js-0078D4?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs-0078D4?style=for-the-badge&logo=nestjs&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
