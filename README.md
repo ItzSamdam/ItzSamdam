@@ -1,6 +1,4 @@
 <h1 align="left" >Hey there 👋, I'm <a href="https://www.linkedin.com/in/samuel-owadayo-6a6bb614b" target="_blank"> Samuel Owadayo </a></h1>
-<br>
-<h1 align="left">About Me ⚡</h1>
 
 I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScript** working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from **fin-tech, media-tech, e-commerce and logistics, ride-hailing solutions** amongst others. 
 
@@ -21,9 +19,7 @@ I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScri
 [![github](https://img.shields.io/github/followers/itzsamdam?logo=Github&style=plastic)](https://github.com/ItzSamdam)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Blog-2648ff?style=flat-square&logo=google-chrome)](https://samuelowadayo.com.ng)
 
-   <div align="left">
-   <br>
-   <br>
+<div align="left">
 
 <h1>Technical Skills 🛠</h1>
 
@@ -69,7 +65,6 @@ I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScri
     <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-0078D4?style=for-the-badge&logo=webstorm&logoColor=white" />
 </p>
 
-<br>
 
  <h1 align="left">Let's Get Connected</h1>
 
