@@ -1,5 +1,5 @@
 <h2 align="left" >Hey there 👋, I'm <a href="https://www.linkedin.com/in/samuel-owadayo-6a6bb614b" target="_blank"> Samuel Owadayo </a></h2>
-<h3><p align="left">
+<p align="left">
 
 [![wakatime](https://wakatime.com/badge/user/f1881d0e-d2eb-4b93-8c28-8dd8d8211b3e.svg)](https://wakatime.com/@f1881d0e-d2eb-4b93-8c28-8dd8d8211b3e)
 [![Github view](https://komarev.com/ghpvc/?username=ItzSamdam&label=Github-Views&color=blue&style=plastic)](https://github.com/ItzSamdam)
