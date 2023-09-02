@@ -9,7 +9,7 @@
 
 I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScript** working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from **fin-tech, media-tech, e-commerce and logistics, ride-hailing solutions** amongst others.
 
-- 📋 Available for backend developer role (remote) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
+- 📋 Available for Backend Engineer Role (Full Remote) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
 - 🌱 I’m currently learning Nestjs.
 - 👯 I’m looking to collaborate on any web project or any open source projects
 - 🤔 I’m looking for collaboration with NestJs
