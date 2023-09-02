@@ -35,8 +35,8 @@ I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScri
 
 <h2>Profile Stats</h2>
 <p align="left">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=ItzSamdam&show_icons=true&rank_icon=github&bg_color=00000000"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSamdam&layout=compact&hide=html&theme=dracula"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ItzSamdam&show_icons=true&rank_icon=github&bg_color=00000000"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSamdam&layout=compact&hide=html&theme=dracula"/>
 </p>
 
 <h2>Reach me via</h2>
