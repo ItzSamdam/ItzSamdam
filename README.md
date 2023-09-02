@@ -1,4 +1,11 @@
 <h2 align="left" >Hey there 👋, I'm <a href="https://www.linkedin.com/in/samuel-owadayo-6a6bb614b" target="_blank"> Samuel Owadayo </a></h2>
+<h3><p align="left">
+
+[![wakatime](https://wakatime.com/badge/user/f1881d0e-d2eb-4b93-8c28-8dd8d8211b3e.svg)](https://wakatime.com/@f1881d0e-d2eb-4b93-8c28-8dd8d8211b3e)
+[![Github view](https://komarev.com/ghpvc/?username=ItzSamdam&label=Github-Views&color=blue&style=plastic)](https://github.com/ItzSamdam)
+[![twitter](https://img.shields.io/twitter/follow/itzsamdam?label=Twitter&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/itzsamdam)
+[![Linkedin: samdam10](https://img.shields.io/badge/-SamuelOwadayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-owadayo-6a6bb614b/)](https://www.linkedin.com/in/samuel-owadayo-6a6bb614b/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Blog-2648ff?style=flat-square&logo=google-chrome)](https://samuelowadayo.com.ng)
 
 I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScript** working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from **fin-tech, media-tech, e-commerce and logistics, ride-hailing solutions** amongst others.
 
