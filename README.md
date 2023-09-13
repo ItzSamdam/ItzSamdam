@@ -53,4 +53,3 @@ I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScri
 <a href="https://twitter.com/ItzSamdam" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:odevservices@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
-
