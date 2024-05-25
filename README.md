@@ -1,15 +1,15 @@
-<h2 align="left" >Hey there 👋, I'm <a href="https://www.linkedin.com/in/samuel-owadayo-6a6bb614b" target="_blank"> Samuel Owadayo </a></h2>
+<h2 align="left" >Hey there 👋, I'm <a href="http://www.linkedin.com/in/samuel-ọwádayọ̀" target="_blank"> Samuel (Dámilólá) Ọwádayọ̀</a></h2>
 <p align="left">
 
 [![Wakatime](https://wakatime.com/badge/user/f1881d0e-d2eb-4b93-8c28-8dd8d8211b3e.svg)](https://wakatime.com/@f1881d0e-d2eb-4b93-8c28-8dd8d8211b3e)
 [![Github Profile View](https://komarev.com/ghpvc/?username=ItzSamdam&label=Github%20Profile%20Views&color=blue&style=plastic)](https://github.com/ItzSamdam)
 [![twitter](https://img.shields.io/twitter/follow/itzsamdam?label=Samuel%20Owadayo&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/itzsamdam)
-[![Linkedin: samdam10](https://img.shields.io/badge/-Samuel%20Owadayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-owadayo-6a6bb614b/)](https://www.linkedin.com/in/samuel-owadayo-6a6bb614b/)
+[![Linkedin: samdam10](https://img.shields.io/badge/-Samuel%20Owadayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/samuel-ọwádayọ̀/)](http://www.linkedin.com/in/samuel-ọwádayọ̀/)
 [![website](https://img.shields.io/badge/Portfolio%20Website-2648ff?style=flat-square&logo=google-chrome)](https://samuelowadayo.com.ng)
 
-I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScript** working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from **fin-tech, media-tech, e-commerce and logistics, ride-hailing solutions** amongst others.
+I'm a **Software Engineer** with over 4 years of experience using **PHP, JavaScript** working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from **fin-tech, media-tech, e-commerce and logistics, ride-hailing solutions** amongst others.
 
-- 📋 Available for Backend Engineer Role (Full Remote) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
+- 📋 Available for Software Engineer Role (Hybrid) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
 - 🌱 I’m currently learning Nestjs.
 - 💬 Ask me about anything, I am happy to help: reach out via contact information below 👇
 - 👯 I’m looking to collaborate on any web project or any open source projects
@@ -50,7 +50,7 @@ I'm a **backend engineer** with over 4 years of experience using **PHP, JavaScri
 
 <h2>Reach me via</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/samuel-owadayo-6a6bb614b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/samuel-owadayo-6a6bb614b](http://www.linkedin.com/in/samuel-ọwádayọ̀)/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ItzSamdam" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <!-- <a href="https://twitter.com/ItzSamdam" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
 <a href="mailto:odevservices@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
