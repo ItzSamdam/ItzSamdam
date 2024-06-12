@@ -1,14 +1,24 @@
 <h2 align="left" >Hey there 👋, I'm <a href="http://www.linkedin.com/in/samuel-ọwádayọ̀" target="_blank"> Samuel (Dámilólá) Ọwádayọ̀</a></h2>
-<p align="left">
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p align="center">
+ 
 [![Wakatime](https://wakatime.com/badge/user/f1881d0e-d2eb-4b93-8c28-8dd8d8211b3e.svg)](https://wakatime.com/@f1881d0e-d2eb-4b93-8c28-8dd8d8211b3e)
 [![Github Profile View](https://komarev.com/ghpvc/?username=ItzSamdam&label=Github%20Profile%20Views&color=blue&style=plastic)](https://github.com/ItzSamdam)
 [![twitter](https://img.shields.io/twitter/follow/itzsamdam?label=Samuel%20Ọwádayọ̀&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/itzsamdam)
 [![Linkedin: samdam10](https://img.shields.io/badge/-Samuel%20Ọwádayọ̀-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/samuel-ọwádayọ̀/)](http://www.linkedin.com/in/samuel-ọwádayọ̀/)
 [![website](https://img.shields.io/badge/Portfolio%20Website-2648ff?style=flat-square&logo=google-chrome)](https://samuelowadayo.com.ng)
 
+
+<h2>Profile Stats</h2>
 I'm a **Software Engineer** with over 4 years of experience using **PHP, JavaScript** working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from **fin-tech, media-tech, e-commerce and logistics, ride-hailing solutions** amongst others.
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItzSamdam&show_icons=true&rank_icon=github&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSamdam&layout=compact&hide=html&theme=dracula"/><br>
+<!-- <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzSamdam&theme=github_dark"/> -->
+</p>
+
+<p align="left">
 - 📋 Available for Software Engineer Role (Hybrid) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
 - 🌱 I’m currently learning Nestjs.
 - 💬 Ask me about anything, I am happy to help: reach out via contact information below 👇
@@ -39,13 +49,6 @@ I'm a **Software Engineer** with over 4 years of experience using **PHP, JavaScr
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="JetBrains" src="https://img.shields.io/badge/phpstorm-0078D4?style=for-the-badge&logo=phpstorm&logoColor=white" />
     <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-0078D4?style=for-the-badge&logo=webstorm&logoColor=white" />
-</p>
-
-<h2>Profile Stats</h2>
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItzSamdam&show_icons=true&rank_icon=github&bg_color=00000000"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSamdam&layout=compact&hide=html&theme=dracula"/><br>
-<!-- <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzSamdam&theme=github_dark"/> -->
 </p>
 
 <h2>Reach me via</h2>
