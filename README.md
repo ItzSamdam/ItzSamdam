@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on any web project or any open source projects
 - 🤔 I’m looking for collaboration with NestJs
 - ⚡ Fun fact: Idea Generation can be tricky, jot things down 😂
-- 📫 wanna try out Java for backend soon 😁 any help will be appreciated
+- 📫 wanna try out Go Lang for backend soon 😁 any help will be appreciated
 </p>
 
 <p align="left">
