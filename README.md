@@ -16,12 +16,11 @@
 <p>I'm a <b>Software Engineer</b> with over 4 years of experience using <b>PHP, JavaScript</b> working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from <b>fintech, mediatech, e-commerce and logistics, ride-hailing solutions</b> amongst others.
 
 - 📋 Available for Software Engineer Role (Hybrid) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
-- 🌱 I’m currently learning Nestjs.
+- 🌱 I’m currently learning React Native for Mobile App Development.
 - 💬 Ask me about anything, I am happy to help: reach out via contact information below 👇
 - 👯 I’m looking to collaborate on any web project or any open source projects
-- 🤔 I’m looking for collaboration with NestJs
+- 🤔 I’m looking for collaboration with React Native
 - ⚡ Fun fact: Idea Generation can be tricky, jot things down 😂
-- 📫 wanna try out Go Lang for backend soon 😁 any help will be appreciated
 </p>
 
 <p align="left">
@@ -35,6 +34,7 @@
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs-0078D4?style=for-the-badge&logo=nestjs&logoColor=white" />
+ <img alt="React Native" src="https://img.shields.io/badge/react%20native-0078D4?style=for-the-badge&logo=reactnative&logoColor=white" />
  <img alt="PHP" src="https://img.shields.io/badge/php-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2314354C.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
