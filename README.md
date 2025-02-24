@@ -49,7 +49,9 @@
     <img alt="JetBrains" src="https://img.shields.io/badge/phpstorm-0078D4?style=for-the-badge&logo=phpstorm&logoColor=white" />
     <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-0078D4?style=for-the-badge&logo=webstorm&logoColor=white" />
 </p>
+<h2>My Stats</h2>h2>
 
+<p align="left"> <img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=ItzSamdam&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 <h2>Reach me via</h2>
 <p align="left">
 <a href="[http://www.linkedin.com/in/samuel-ọwádayọ̀](http://www.linkedin.com/in/samuel-ọwádayọ̀)/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
