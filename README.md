@@ -1,4 +1,4 @@
-<h2 align="left" >Hey there 👋, I'm <a href="http://www.linkedin.com/in/samuel-ọwádayọ̀" target="_blank"> Samuel (Dámilólá) Ọwádayọ̀</a></h2>
+<h2 align="left" >Hey there 👋, I'm <a href="http://www.linkedin.com/in/samuel-ọwádayọ̀" target="_blank"> Samuel (Dámilólá) Ọwádayọ</a></h2>
 
 <p align="center">
  
