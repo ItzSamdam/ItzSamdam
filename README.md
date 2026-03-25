@@ -13,7 +13,7 @@
 
 <h2>Profile Stats</h2>
 
-<p>I'm a <b>Software Engineer</b> with over 4 years of experience using <b>PHP, JavaScript</b> working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from <b>fintech, mediatech, e-commerce and logistics, ride-hailing solutions</b> amongst others.
+<p>I'm a <b>Software Engineer</b> with over 5 years of experience using <b>PHP, JavaScript</b> working on projects for startups and businesses. In my few years working as a backend engineer, I've worked on various tech solutions ranging from <b>fintech, mediatech, e-commerce and logistics, ride-hailing solutions</b> amongst others.
 
 - 📋 Available for Software Engineer Role (Hybrid) - [Resume](https://docs.google.com/document/d/1zI81_njjYeDMrhJE4e-w9eAOgb3mOv0KRyJ3w3kL98w/edit?usp=sharing)
 - 🌱 I’m currently learning React Native for Mobile App Development.
