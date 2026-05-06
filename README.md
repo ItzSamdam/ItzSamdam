@@ -52,7 +52,7 @@ I focus on building systems that are not just functional, but **reliable, scalab
 ## 🧰 Tech Stack
 
 **Backend:** Node.js (Express, NestJS), Laravel  
-**Frontend:** Vue.js  
+**Frontend:** Vue.js (NuxtJS)
 **Databases:** MySQL, PostgreSQL, MongoDB  
 **Caching & Infra:** Redis, Docker  
 **Tools:** Git, REST APIs, Webhooks  
