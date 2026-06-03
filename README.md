@@ -68,10 +68,6 @@ I focus on building systems that are not just functional, but **reliable, scalab
 
 ---
 
-## 📊 GitHub Stats
-<p align="left"> <img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=ItzSamdam&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
----
-
 ## 🧰 Tech Stack
 
 <p align="left">
